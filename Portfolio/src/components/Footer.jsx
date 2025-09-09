@@ -56,11 +56,7 @@ const Footer = () => {
         {/* Social Media Icons */}
         <Flex justify="center" mt={6} gap={4} flexWrap="wrap">
           {[
-            { icon: <FaFacebook />, link: "https://facebook.com/" },
-            { icon: <FaTwitter />, link: "https://twitter.com/" },
-            { icon: <FaLinkedin />, link: "https://linkedin.com/in/abhishek-katiyar" },
-            { icon: <FaInstagram />, link: "https://instagram.com/" },
-            { icon: <FaYoutube />, link: "https://youtube.com/" },
+            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/contactabhishekk/" },
           ].map((item, index) => (
             <Link
               key={index}

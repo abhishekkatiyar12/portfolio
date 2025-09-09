@@ -169,7 +169,7 @@ const Navbar = () => {
                 <FaGithub size={24} />
               </Link>
               <Link
-                href="https://linkedin.com/in/abhishek-katiyar"
+                href="https://www.linkedin.com/in/contactabhishekk/"
                 isExternal
                 _hover={{ color: "white" }}
               >

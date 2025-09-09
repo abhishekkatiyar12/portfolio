@@ -19,7 +19,7 @@ import vercelLogo from './assets/Tech_logo/vercel.png';
 import renderLogo from './assets/Tech_logo/render.png';
 
 // Company Logos
-import schoollogLogo from './assets/company_logo/schoollog_logo.png';
+import schoollogLogo from './assets/Company_logo/schoollog_logo.png';
 
 // Education Logos
 import kietLogo from './assets/education_logo/kiet.jpg';

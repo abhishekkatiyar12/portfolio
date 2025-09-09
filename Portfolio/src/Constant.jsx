@@ -164,7 +164,7 @@ export const projects = [
       "Built with React, Node.js, and Express, this app integrates third-party APIs to generate images dynamically. Implemented secure authentication, REST APIs, and MongoDB storage.",
     image: imgGenLogo,
     tags: [allSkills.react, allSkills.node, allSkills.express, allSkills.mongodb],
-    github: "https://github.com/abhishek-img-generator",
+    github: "https://github.com/abhishekkatiyar12/img-generator",
     webapp: "https://img-generator-umber.vercel.app/",
   },
   {
@@ -174,7 +174,7 @@ export const projects = [
       "A Next.js app that enables students to share real-time location and images with professors to confirm placement arrival.",
     image: driveTrackerLogo,
     tags: [allSkills.react, allSkills.node],
-    github: "https://github.com/abhishek-drive-tracker",
+    github: "https://github.com/abhishekkatiyar12/driveTracker",
     webapp: "https://drive-tracker.vercel.app/",
   },
   {
@@ -184,8 +184,8 @@ export const projects = [
       "Worked on backend development using NestJS and MongoDB for an e-waste management platform.",
     image: greenloopLogo,
     tags: [allSkills.node, allSkills.express, allSkills.mongodb],
-    github: "https://github.com/abhishek-greenloop",
-    webapp: "#",
+    github: "https://github.com/abhishekkatiyar12/GreenLoop",
+    webapp: "https://green-loop-sigma.vercel.app/",
   },
   {
     id: 3,
@@ -194,8 +194,8 @@ export const projects = [
       "A full-stack to-do app with authentication and MongoDB storage.",
     image: greenloopLogo, // replace with correct image if you have one
     tags: [allSkills.react, allSkills.node, allSkills.express, allSkills.mongodb],
-    github: "https://github.com/abhishek-todo",
-    webapp: "#",
+    github: "https://github.com/abhishekkatiyar12/professional-to-do",
+    webapp: "https://professional-to-do.vercel.app/",
   },
 
 ];

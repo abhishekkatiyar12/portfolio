@@ -8,7 +8,7 @@ import Education from "./components/Education";
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-import BlurBlob from "./components/BlurBlob";
+import BlurBlob from "./components/Blurblob";
 
 function App() {
   return (
